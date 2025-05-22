@@ -174,3 +174,5 @@ int main()
   editor->saveDoc();
   return 0;
 }
+
+//Its the optimal design which is following all the SOLID principles 
